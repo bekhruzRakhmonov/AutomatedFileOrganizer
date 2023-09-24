@@ -1,6 +1,6 @@
 # Automated File Organizer
 
-## This `Python` script automatically categorize and organize downloaded files into specific folders based on their file extensions.
+### This `Python` script automatically categorize and organize downloaded files into specific folders based on their file extensions.
 
 ## Usage
 
